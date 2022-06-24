@@ -1,0 +1,156 @@
+{
+    "sampleArray": [
+      {
+        "id": "details",
+        "label": "Details",
+        "items": [
+          {
+            "id": "webFarm",
+            "label": "Web Farm",
+            "subText": "details",
+            "type": "Controlled",
+            "isCard": true
+          }
+        ]
+      },
+      {
+        "id": "share",
+        "label": "Share",
+        "items": [
+          {
+            "id": "tradingBook",
+            "label": "Trading Book Oversight Platform",
+            "subText": "share",
+            "type": "Controlled",
+            "isCard": true
+          }
+        ]
+      },
+      {
+        "id": "versions",
+        "label": "Versions",
+        "items": [
+          {
+            "id": "webFarm",
+            "label": "Web Farm",
+            "subText": "versions",
+            "type": "Controlled",
+            "isCard": true
+          }
+        ]
+      }
+    ],
+  
+    "sampleBluePrintArray": [
+      {
+        "id": "loadbalance",
+        "label": "Load Balance",
+        "items": [
+          {
+            "id": "apacheSingleton",
+            "label": "Apache Singleton",
+            "subText": "loadbalance",
+            "isCard": true
+          }
+        ]
+      },
+      {
+        "id": "singlesitepatroniclisterone",
+        "label": "Single Site Patroni Cluster #1",
+        "items": [
+          {
+            "id": "patroni-server",
+            "label": "Patroni Server #1",
+            "items": [
+              {
+                "id": "patroni-server",
+                "label": "Patroni Server #1",
+                "subText": "patroniserver1",
+                "isCard": true
+              }
+            ]
+          },
+          {
+            "id": "linux-server",
+            "label": "Linux Server #1",
+            "items": [
+              {
+                "id": "linux-server-content",
+                "label": "Linux Server #1",
+                "subText": "patroniserver1",
+                "isCard": true
+              }
+            ]
+          },
+          {
+            "id": "ha-proxy-server",
+            "label": "HA Proxy Server #1",
+            "items": [
+              {
+                "id": "ha-proxy-server-content",
+                "label": "HA Proxy Server #1",
+                "subText": "haproxyserver1",
+                "isCard": true
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "sampleLogsArray": [
+      {
+        "id": "loadbalance",
+        "label": "Logs",
+        "items": [
+          {
+            "id": "apacheSingleton",
+            "label": "Apache Singleton",
+            "subText": "loadbalance",
+            "isCard": true
+          }
+        ]
+      },
+      {
+        "id": "singlesitepatroniclisterone",
+        "label": "Log server ",
+        "items": [
+          {
+            "id": "patroni-server",
+            "label": "Log Server #1",
+            "items": [
+              {
+                "id": "patroni-server",
+                "label": "Primary Log Server #1",
+                "subText": "patroniserver1",
+                "isCard": true
+              }
+            ]
+          },
+          {
+            "id": "linux-server",
+            "label": "Linux Log Server #1",
+            "items": [
+              {
+                "id": "linux-server-content",
+                "label": "Linux Log Server #1",
+                "subText": "patroniserver1",
+                "isCard": true
+              }
+            ]
+          },
+          {
+            "id": "ha-proxy-server",
+            "label": "HA Proxy Server #1",
+            "items": [
+              {
+                "id": "ha-proxy-server-content",
+                "label": "HA Proxy Server #1",
+                "subText": "haproxyserver1",
+                "isCard": true
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
