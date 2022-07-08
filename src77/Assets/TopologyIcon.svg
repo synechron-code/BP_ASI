@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="32px" viewBox="0 0 36 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Projects-Button-Selected</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="CSW-E-17" transform="translate(-68.000000, -62.000000)">
+            <g id="Projects-Button-Selected" transform="translate(68.000000, 62.000000)">
+                <rect id="Rectangle" stroke="#012169" fill="#012169" x="0.5" y="0.5" width="34.5555556" height="31" rx="2"></rect>
+                <path d="M25.5,25 L10.5,25 C9.67193272,24.9991319 9.0008681,24.3280673 9,23.5 L9,12.25 C9.0008681,11.4219327 9.67193272,10.7508681 10.5,10.75 L14.749875,10.75 C15.0745059,10.7505266 15.3903114,10.8557337 15.6504,11.05 L18.250125,13 L25.5,13 C26.3280673,13.0008681 26.9991319,13.6719327 27,14.5 L27,23.5 C26.9991319,24.3280673 26.3280673,24.9991319 25.5,25 Z M14.749875,12.25 L10.498875,12.25 L10.5,23.5 L25.5,23.5 L25.5,14.5 L17.749875,14.5 L14.749875,12.25 Z M27,10.75 L19.249875,10.75 L16.249875,8.5 L10.5,8.5 L10.5,7 L16.249875,7 C16.5745059,7.00052661 16.8903114,7.10573374 17.1504,7.3 L19.750125,9.25 L27,9.25 L27,10.75 Z" id="Fill" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

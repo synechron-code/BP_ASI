@@ -1,0 +1,85 @@
+.noBordertabPane {
+  box-shadow: none !important;
+  border: none !important;
+}
+
+tbody {
+  display: block;
+  max-height: 250px;
+  overflow: auto;
+}
+
+thead,
+tbody tr {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+}
+
+.modal-bg {
+  background-color: #F4F4F4 !important;
+}
+
+.ui.form .field .ui.input input, .ui.form .fields .field .ui.input input {
+  border-radius: 0;
+  border: none;
+  border-bottom: 1px solid #8D8D8D;
+}
+
+.ui.form input[type=text]:focus {
+  border: 2px solid #0F62FE !important;
+}
+
+.ui.selection.dropdown {
+  border-radius: 0 !important;
+  border: none !important;
+  border-bottom: 1px solid #8D8D8D !important;
+}
+
+.ui.selection.active.dropdown:focus {
+  border: 2px solid #0F62FE !important;
+}
+
+.ui.selection.active.dropdown .menu {
+  border-color: #0F62FE !important;
+}
+
+.ui.form .field>label {
+  color: #525252 !important;
+}
+
+.ui.form textarea {
+  border-radius: 0 !important;
+  border: none !important;
+  border-bottom: 1px solid #8D8D8D !important;
+}
+
+.ui.form textarea:focus {
+  border: 2px solid #0F62FE !important;
+}
+
+.ui.modal>.header {
+  border-bottom: unset !important;
+}
+
+.modalClasses{
+  padding: 15px;
+  background-color: #F4F4F4 !important;
+}
+
+.p-t-30 {
+  padding-top: 30px;
+}
+
+.p-t-20 {
+  padding-top: 20px;
+}
+
+.cancelButton button{
+  border-radius: 0 !important;
+}
+
+.saveButton button{
+  border-radius: 0 !important;
+  background-color: #0F62FE !important;
+}
